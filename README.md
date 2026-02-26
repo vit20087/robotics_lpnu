@@ -102,29 +102,6 @@ rm -rf ./build ./install ./log
 
 ---
 
-## Repository Structure
-
-```
-robotics_lpnu/
-├── lab1/                          # Lab 1: Building a Robot in Gazebo
-│   ├── worlds/robot.sdf          # Robot world file
-│   └── README.md                  # Lab 1 instructions
-├── lab2/                          # Lab 2: ROS2 Integration
-│   ├── lab2/                      # Python nodes (you create)
-│   ├── launch/                    # Launch files (you create)
-│   ├── config/robot.rviz         # RViz configuration
-│   └── README.md                  # Lab 2 instructions
-├── docs/                          
-│   └── INSTALLATION_GUIDE.md      # OS setup guide
-├── docker/                        
-│   ├── Dockerfile                 # ROS2 + Gazebo image
-│   └── entrypoint.bash           
-└── scripts/                       
-    └── cmd                        # Docker helper script
-```
-
----
-
 ## Troubleshooting
 
 ### Docker permission denied
