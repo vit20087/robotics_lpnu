@@ -4,8 +4,8 @@
 
 ```bash
 cd ~
-git clone https://github.com/vit20087/lab1-padus-robotics.git
-cd lab1-padus-robotics
+git clone https://github.com/vit20087/robotics_lpnu.git
+cd lab1
 ```
 
 ### 2. Build Docker Image
