@@ -2,7 +2,7 @@
 ### 1. Clone Repository
   ```bash
    cd ~
-   git clone https://github.com/RybOlya/robotics_lpnu.git
+   git clone https://github.com/vit20087/robotics_lpnu.git
    cd robotics_lpnu/lab2
    ```
 ### 2. Build Docker Image
